@@ -13,6 +13,7 @@ SendMode Input
 	}
 	
 
+; https://www.autohotkey.com/boards/viewtopic.php?t=30567
 LShift & Esc::
 	Critical
 	BlockInput, Off
